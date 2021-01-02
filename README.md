@@ -1,5 +1,11 @@
 # Django tutorial
 
-https://docs.djangoproject.com/en/2.0/intro/tutorial01/
+To start server: `python manage.py runserver`
+To run test: `python manage.py test polls`
 
-When I go through the tutorial, i noticed that some of the codes are not working. I have corrected the code.
+Available links:
+1. http://127.0.0.1:8000/admin/
+2. http://127.0.0.1:8000/polls/
+
+User: Shawn
+Password: testing1
